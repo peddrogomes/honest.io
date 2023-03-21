@@ -1,0 +1,1 @@
+comprimidas usando https://products.aspose.app/imaging/image-compress/bmp/navigation/result
