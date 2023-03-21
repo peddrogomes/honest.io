@@ -13,7 +13,7 @@
 - A pasta gateway_de_pagamento contém o código do "gateway de pagamento" do projeto, carregado na wemos, bem como algumas instruções relevantes.
 
 ## Prototipo:
-![prototipo](images\prototipo.jpeg)
+![prototipo](images/prototipo.jpeg)
 
 ## Conexões dos dois módulos (Arduino > Wemos):
 - Tx > Rx
