@@ -1,6 +1,6 @@
 ## Do que se trata?
 
-- Esse é um trabalho de conclusão de curso (TCC) de Engenharia Eletrônica da UFPE apresentado por mim e orientado pelo professor João Marcelo;
+- Esse é um trabalho de conclusão de curso (TCC), do curso de Engenharia Eletrônica na UFPE, apresentado por mim e orientado pelo professor João Marcelo;
 
 - Trás uma visão disruptiva do mercado, mesclando os conceitos de mercado autônomo e marketplace físico, desenvolvendo um sistema de automação para loja, no qual pequenos vendedores podem cadastrar seus produtos e terceirizar suas vendas presenciais. 
 
